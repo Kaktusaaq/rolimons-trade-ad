@@ -3,10 +3,10 @@
     "specificItems": {
         "enabled": false,
         "sendingItems": [
-            "435115571",
+            "435115571"
         ],
         "receivingItems": [
-            "76233968067050",
+            "76233968067050"
         ],
         "tags": [
             "downgrade"
